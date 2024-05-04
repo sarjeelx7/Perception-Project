@@ -21,7 +21,7 @@ in [Data](#Data) section.
 
 
 ## Files
-- lane_segmentation
+- Perception-Project
 	- data
 		- custom
                      	- inputs
